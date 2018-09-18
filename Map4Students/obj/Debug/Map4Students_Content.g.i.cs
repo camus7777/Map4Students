@@ -8,6 +8,6 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-[assembly: System.Windows.Resources.AssemblyAssociatedContentFileAttribute("ccgs-logo-1.gif.jpg")]
+[assembly: System.Windows.Resources.AssemblyAssociatedContentFileAttribute("map_images/white-block.jpg")]
 
 

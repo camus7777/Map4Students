@@ -41,7 +41,7 @@ namespace Map4Students {
     public partial class Page1 : System.Windows.Controls.Page, System.Windows.Markup.IComponentConnector {
         
         
-        #line 44 "..\..\Page1.xaml"
+        #line 52 "..\..\Page1.xaml"
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.TextBox InputTextBox1;
         
@@ -49,7 +49,7 @@ namespace Map4Students {
         #line hidden
         
         
-        #line 57 "..\..\Page1.xaml"
+        #line 65 "..\..\Page1.xaml"
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.TextBox InputTextBox2;
         
@@ -57,7 +57,7 @@ namespace Map4Students {
         #line hidden
         
         
-        #line 62 "..\..\Page1.xaml"
+        #line 70 "..\..\Page1.xaml"
         [System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1823:AvoidUnusedPrivateFields")]
         internal System.Windows.Controls.Button Login_Page_Enter_Button;
         
@@ -103,7 +103,7 @@ namespace Map4Students {
             case 3:
             this.Login_Page_Enter_Button = ((System.Windows.Controls.Button)(target));
             
-            #line 62 "..\..\Page1.xaml"
+            #line 70 "..\..\Page1.xaml"
             this.Login_Page_Enter_Button.Click += new System.Windows.RoutedEventHandler(this.buttonclick1);
             
             #line default
