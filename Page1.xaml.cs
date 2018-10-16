@@ -52,8 +52,9 @@ namespace Map4Students
             }
             else
             {
-                MessageBox.Show("                                                  Incorrect Sudent ID                                                            ");
+                MessageBox.Show("                                                  Incorrect Sudent ID Or Password                                                  ");
                 InputTextBox1.Text = "";
+                InputTextBox2.Text = "";
             }
            
         }
